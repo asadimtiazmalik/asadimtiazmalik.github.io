@@ -133,3 +133,6 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+#paper1:hover {background-color: rgb(211, 255, 80);}
+#desc1:hover {background-color: rgb(106, 255, 80);}
