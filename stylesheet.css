@@ -136,3 +136,18 @@ span.highlight {
 
 #paper1:hover {background-color: rgb(211, 255, 80);}
 #desc1:hover {background-color: rgb(106, 255, 80);}
+blockquote {
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  margin-bottom: 20px;
+}
+blockquote p {
+  margin: 0;
+}
+blockquote footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-top: 10px;
+}
